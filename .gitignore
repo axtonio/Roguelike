@@ -1,2 +1,7 @@
 .import/
 ./icon.png.import
+
+# Local generated files and machine-specific credentials
+.DS_Store
+**/__pycache__/
+*.py[cod]
